@@ -1,7 +1,7 @@
 ### IntelliJ IDEA ###
 out/
 .idea
-Homework1.iml
+.iml
 !**/src/main/**/out/
 !**/src/test/**/out/
 
